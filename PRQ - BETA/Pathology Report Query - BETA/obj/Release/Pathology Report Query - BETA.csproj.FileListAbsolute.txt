@@ -1,0 +1,20 @@
+C:\Users\21197\source\repos\Pathology Report Query - BETA\Pathology Report Query - BETA\bin\Release\Pathology Report Query - BETA.exe.config
+C:\Users\21197\source\repos\Pathology Report Query - BETA\Pathology Report Query - BETA\bin\Release\Pathology Report Query - BETA.exe
+C:\Users\21197\source\repos\Pathology Report Query - BETA\Pathology Report Query - BETA\bin\Release\Pathology Report Query - BETA.pdb
+C:\Users\21197\source\repos\Pathology Report Query - BETA\Pathology Report Query - BETA\obj\Release\Pathology_Report_Query___BETA.Dashboard.resources
+C:\Users\21197\source\repos\Pathology Report Query - BETA\Pathology Report Query - BETA\obj\Release\Pathology_Report_Query___BETA.Properties.Resources.resources
+C:\Users\21197\source\repos\Pathology Report Query - BETA\Pathology Report Query - BETA\obj\Release\Pathology Report Query - BETA.csproj.GenerateResource.Cache
+C:\Users\21197\source\repos\Pathology Report Query - BETA\Pathology Report Query - BETA\obj\Release\Pathology Report Query - BETA.csproj.CoreCompileInputs.cache
+C:\Users\21197\source\repos\Pathology Report Query - BETA\Pathology Report Query - BETA\obj\Release\Pathology Report Query - BETA.exe
+C:\Users\21197\source\repos\Pathology Report Query - BETA\Pathology Report Query - BETA\obj\Release\Pathology Report Query - BETA.pdb
+C:\Users\21197\source\repos\Pathology Report Query - BETA\Pathology Report Query - BETA\obj\Release\Pathology Report Query - BETA.csprojResolveAssemblyReference.cache
+C:\Users\Corvu\OneDrive\Documents\School\CMPT 390 - Development Seminar\Pathology Report Query - BETA\Pathology Report Query - BETA\Pathology Report Query - BETA\bin\Release\Pathology Report Query - BETA.exe.config
+C:\Users\Corvu\OneDrive\Documents\School\CMPT 390 - Development Seminar\Pathology Report Query - BETA\Pathology Report Query - BETA\Pathology Report Query - BETA\bin\Release\Pathology Report Query - BETA.exe
+C:\Users\Corvu\OneDrive\Documents\School\CMPT 390 - Development Seminar\Pathology Report Query - BETA\Pathology Report Query - BETA\Pathology Report Query - BETA\bin\Release\Pathology Report Query - BETA.pdb
+C:\Users\Corvu\OneDrive\Documents\School\CMPT 390 - Development Seminar\Pathology Report Query - BETA\Pathology Report Query - BETA\Pathology Report Query - BETA\obj\Release\Pathology Report Query - BETA.csprojResolveAssemblyReference.cache
+C:\Users\Corvu\OneDrive\Documents\School\CMPT 390 - Development Seminar\Pathology Report Query - BETA\Pathology Report Query - BETA\Pathology Report Query - BETA\obj\Release\Pathology_Report_Query___BETA.Dashboard.resources
+C:\Users\Corvu\OneDrive\Documents\School\CMPT 390 - Development Seminar\Pathology Report Query - BETA\Pathology Report Query - BETA\Pathology Report Query - BETA\obj\Release\Pathology_Report_Query___BETA.Properties.Resources.resources
+C:\Users\Corvu\OneDrive\Documents\School\CMPT 390 - Development Seminar\Pathology Report Query - BETA\Pathology Report Query - BETA\Pathology Report Query - BETA\obj\Release\Pathology Report Query - BETA.csproj.GenerateResource.Cache
+C:\Users\Corvu\OneDrive\Documents\School\CMPT 390 - Development Seminar\Pathology Report Query - BETA\Pathology Report Query - BETA\Pathology Report Query - BETA\obj\Release\Pathology Report Query - BETA.csproj.CoreCompileInputs.cache
+C:\Users\Corvu\OneDrive\Documents\School\CMPT 390 - Development Seminar\Pathology Report Query - BETA\Pathology Report Query - BETA\Pathology Report Query - BETA\obj\Release\Pathology Report Query - BETA.exe
+C:\Users\Corvu\OneDrive\Documents\School\CMPT 390 - Development Seminar\Pathology Report Query - BETA\Pathology Report Query - BETA\Pathology Report Query - BETA\obj\Release\Pathology Report Query - BETA.pdb
