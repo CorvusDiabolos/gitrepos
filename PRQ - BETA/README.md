@@ -7,4 +7,4 @@ Performs SQL queris on pathology reports stored in a local database.
 
 NOTE: application will launch, but does not function when not running on an ARUP PC.
 Much code has been deleted or obsfucated to protect anything that may potentially compromise
-patient date or proprietary company information.
+patient data or proprietary company information.
