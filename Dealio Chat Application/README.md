@@ -10,3 +10,5 @@
 **NOTE**
 # This is only a partial implementation of the WTDP.  May not work with other servers/clients until complete.
 # assumes well-behaved clients.
+
+*Cookbook for non-dealio Python chat app: https://medium.com/swlh/lets-write-a-chat-app-in-python-f6783a9ac170*
