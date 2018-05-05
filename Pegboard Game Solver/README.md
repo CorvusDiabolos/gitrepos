@@ -1,1 +1,3 @@
-# gitrepos
+# Pegboard Game Solver
+
+An partnered algorithm written in Jupyter Python Notebook that can solve the infamous Cracker Barrel peg game.  Code is currently modified to solve the board with the peg landing in the same spot used in the beginning, but can be modified back to solving the game in as few steps as possible.  This program was selected as it demonstrates my ability to examine a problem, designing an algorithm to solve the problem, implementing then testing and debugging the solution using an object oriented language.  Assignment also demonstrates my ability to work with a single partner to solve a problem.  
