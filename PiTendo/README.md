@@ -14,3 +14,5 @@ The project was selected to demonstrate knowledge of working with direct hardwar
 * Runs Kodi
 * Runs Doom
 * Runs Warcraft 2
+
+*Note: backup image of the project is too large to load onto github.  A copy can be downloaded for mounting to a Raspberry Pi from my personal cloud storage [here](https://1drv.ms/u/s!AlVF6l7lg_Wmnfo-NlpFJLl3AulXtA).
